@@ -8,6 +8,7 @@ This project presents a detailed analysis of an online retail dataset, covering 
 3.Data Cleaning & Wrangling
 4.Time Series Analysis
 5.RFM Segmentation
+6. Power Bi For Visualization
 
 🧪 Process
 ---->Data Cleaning & Preparation:
@@ -45,4 +46,28 @@ This project presents a detailed analysis of an online retail dataset, covering 
 3.Built actionable customer segments (e.g., 443 High Value Customers) using RFM.
 4.No sales observed on Saturdays, which was a surprising insight.
 5.Monthly sales peaked during Q4, especially November.
+
+📊 Power BI Dashboard
+
+Alongside Python-based data analysis, an interactive dashboard was built using Power BI to visualize sales trends and customer behavior over time. This allows stakeholders to derive insights through a dynamic and intuitive interface.
+
+🔹 Features Highlighted:
+
+1.📈 Revenue Contributions by Customer Segments (RFM)
+2.📅 Monthly & Weekly Sales Trends
+3.🧩 Customer Segmentation: High Value, Loyal, At-Risk, Dormant
+4.🔥 Top/Bottom Performing Customers
+5.🌍 Country & Month Filters for dynamic exploration
+6.📊 RFM Heatmap for customer behavior visualization
+
+📸 Dashboard Preview
+
+![Picture1](https://github.com/user-attachments/assets/fe2d1291-6114-456e-8e39-874b7e77bd4b)
+
+
+
+
+
+
+
 
